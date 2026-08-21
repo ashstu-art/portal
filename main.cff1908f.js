@@ -1,510 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8"/>
-<meta name="google-site-verification" content="2cbD_ADEDQWgVHyWuJiWJOW1SdqEZBi4hf1kpkQOZGw"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<meta name="description" content="Official site of Ash Stu (Ashton Stubblefield) – outsider-folk singer-songwriter from Edmond, Oklahoma. Stream music, watch videos, and book shows."/>
-<meta name="author" content="Ashton Stubblefield (Ash Stu)"/>
-<meta name="theme-color" content="#084C61"/>
-<link rel="canonical" href="https://ashstu.art/"/>
-<link rel="sitemap" type="application/xml" title="Sitemap" href="https://ashstu.art/sitemap.xml"/>
-<meta property="og:site_name" content="Ash Stu"/>
-<meta property="og:title" content="Ash Stu Art | Ashton Stubblefield"/>
-<meta property="og:description" content="Official site of Ash Stu (Ashton Stubblefield) – outsider-folk singer-songwriter from Edmond, Oklahoma. Stream music, watch videos, and book shows."/>
-<meta property="og:type" content="website"/>
-<meta property="og:url" content="https://ashstu.art/"/>
-<meta property="og:image" content="https://ashstu.art/Images/social-card.png"/>
-<meta property="og:image:type" content="image/png"/>
-<meta property="og:image:width" content="1200"/>
-<meta property="og:image:height" content="630"/>
-<meta property="og:image:alt" content="Ash Stu (Ashton Stubblefield) - Outsider-folk singer-songwriter from Edmond, Oklahoma"/>
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:title" content="Ash Stu Art | Ashton Stubblefield"/>
-<meta name="twitter:description" content="Official site of Ash Stu (Ashton Stubblefield) – outsider-folk singer-songwriter from Edmond, Oklahoma. Stream music, watch videos, and book shows."/>
-<meta name="twitter:image" content="https://ashstu.art/Images/social-card.png"/>
-<meta name="twitter:image:alt" content="Ash Stu (Ashton Stubblefield) - Outsider-folk singer-songwriter from Edmond, Oklahoma"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "ImageObject",
-      "@id": "https://ashstu.art/#primary-photo",
-      "url": "https://ashstu.art/Images/Profile-3.webp",
-      "contentUrl": "https://ashstu.art/Images/Profile-3.webp",
-      "name": "Ash Stu - Official Artist Photo",
-      "description": "Official press photo of Ash Stu, Outsider-folk singer-songwriter from Edmond, Oklahoma.",
-      "caption": "Ash Stu, singer-songwriter from Edmond, Oklahoma",
-      "representativeOfPage": true,
-      "author": { "@id": "https://ashstu.art/#artist" },
-      "copyrightHolder": { "@id": "https://ashstu.art/#artist" }
-    },
-    {
-      "@type": ["MusicGroup", "Person"],
-      "@id": "https://ashstu.art/#artist",
-      "name": "Ash Stu",
-      "alternateName": ["Ash Stu Media", "Ashton Stubblefield", "Ashton Stubblefield Music"],
-      "description": "Ash Stu (Ashton Stubblefield) is an Outsider-folk singer-songwriter from Edmond, Oklahoma. Known for emotionally honest songwriting and self-produced recordings of original music.",
-      "keywords": ["outsider folk", "folk singer-songwriter", "Edmond Oklahoma music", "indie folk", "americana", "Ashton Stubblefield"],
-      "url": "https://ashstu.art/",
-      "image": { "@id": "https://ashstu.art/#primary-photo" },
-      "photo": { "@id": "https://ashstu.art/#primary-photo" },
-      "genre": ["Outsider-Folk", "Singer-Songwriter", "Americana"],
-      "foundingLocation": {
-        "@type": "Place",
-        "name": "Edmond, Oklahoma",
-        "address": { "@type": "PostalAddress", "addressLocality": "Edmond", "addressRegion": "OK", "addressCountry": "US" }
-      },
-      "areaServed": { "@type": "State", "name": "Oklahoma" },
-      "member": { "@type": "Person", "name": "Ashton Stubblefield", "alternateName": "Ash Stu", "url": "https://ashstu.art/" },
-      "contactPoint": { "@type": "ContactPoint", "email": "ashstumusic@gmail.com", "contactType": "Booking and Press" },
-      "sameAs": [
-        "https://music.apple.com/us/artist/ash-stu/1868592370",
-        "https://open.spotify.com/artist/40zDWDI2vFYwdqn80M3odx",
-        "https://www.youtube.com/@ash_stu",
-        "https://www.youtube.com/channel/UCRHOlAh0BxAYgJGaYuXVrjQ",
-        "https://substack.com/@ashstu",
-        "https://www.patreon.com/c/AshStu"
-      ]
-    },
-    {
-      "@type": "WebSite",
-      "@id": "https://ashstu.art/#website",
-      "url": "https://ashstu.art/",
-      "name": "Ash Stu",
-      "description": "Official website and music hub of Ash Stu (Ashton Stubblefield): outsider-folk music, videos, and writing from Edmond, Oklahoma.",
-      "publisher": { "@id": "https://ashstu.art/#artist" }
-    },
-    {
-      "@type": "MusicAlbum",
-      "@id": "https://ashstu.art/#album-only-a-baby-vol-2",
-      "name": "Only a Baby, Vol. 2",
-      "albumProductionType": "SelfReleasedAlbum",
-      "albumReleaseType": "AlbumRelease",
-      "datePublished": "2026-01-01",
-      "byArtist": { "@id": "https://ashstu.art/#artist" },
-      "image": "https://ashstu.art/Images/Releases/Only%20a%20Baby%2C%20Vol.%202.webp",
-      "numTracks": 9,
-      "url": "https://music.apple.com/us/album/only-a-baby-vol-2/6779983161",
-      "track": [
-        {"@type":"MusicRecording","name":"Cool Cat Can't Comprehend","position":1,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"Dirge for Ducklings","position":2,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"Savior Complicated","position":3,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"Annabel Lena","position":4,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"Summertime Even on the Moon","position":5,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"Performatives Anonymous","position":6,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"Theory of Hope","position":7,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"Peacekeepers","position":8,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"The Wandering Jerk","position":9,"byArtist":{"@id":"https://ashstu.art/#artist"}}
-      ]
-    },
-    {
-      "@type": "MusicAlbum",
-      "@id": "https://ashstu.art/#album-only-a-baby-vol-1",
-      "name": "Only a Baby, Vol. 1",
-      "albumProductionType": "SelfReleasedAlbum",
-      "albumReleaseType": "AlbumRelease",
-      "datePublished": "2025-01-01",
-      "byArtist": { "@id": "https://ashstu.art/#artist" },
-      "image": "https://ashstu.art/Images/Releases/Only%20a%20Baby%2C%20Vol.%201.webp",
-      "numTracks": 18,
-      "url": "https://music.apple.com/us/album/only-a-baby-vol-1/1879176371",
-      "track": [
-        {"@type":"MusicRecording","name":"THE COSMOS IS ALIVE","position":1,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"the tragedy of the gifted child","position":2,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"SOMEWHERE SOMETIME","position":3,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"am soda","position":4,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"THE ONE WHO STUNS THE BIRDS","position":5,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"the raven","position":6,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"VCR","position":7,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"the cloud for the desert","position":8,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"PRETEND","position":9,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"sonnet for my delusion","position":10,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"PICK UP THE PHONE","position":11,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"the outdoor plant","position":12,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"WHY HAVE EYES","position":13,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"unanswerable questions","position":14,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"A GRIEF PRESERVED","position":15,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"future lives","position":16,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"DON'T WISH YOUR LIFE AWAY","position":17,"byArtist":{"@id":"https://ashstu.art/#artist"}},
-        {"@type":"MusicRecording","name":"the tragedy of the gifted child (reprise)","position":18,"byArtist":{"@id":"https://ashstu.art/#artist"}}
-      ]
-    },
-    {
-      "@type": "MusicAlbum",
-      "@id": "https://ashstu.art/#single-drive-me-home",
-      "name": "Drive Me Home",
-      "albumProductionType": "SelfReleasedAlbum",
-      "albumReleaseType": "SingleRelease",
-      "datePublished": "2025-01-01",
-      "byArtist": { "@id": "https://ashstu.art/#artist" },
-      "image": "https://ashstu.art/Images/Releases/Drive%20Me%20Home.webp",
-      "numTracks": 1,
-      "url": "https://music.apple.com/us/album/drive-me-home-single/1888200397",
-      "track": [{"@type":"MusicRecording","name":"Drive Me Home","position":1,"byArtist":{"@id":"https://ashstu.art/#artist"}}]
-    },
-    {
-      "@type": "MusicAlbum",
-      "@id": "https://ashstu.art/#single-waste-my-time",
-      "name": "Waste My Time",
-      "albumProductionType": "SelfReleasedAlbum",
-      "albumReleaseType": "SingleRelease",
-      "datePublished": "2025-01-01",
-      "byArtist": { "@id": "https://ashstu.art/#artist" },
-      "image": "https://ashstu.art/Images/Releases/Waste%20My%20Time.webp",
-      "numTracks": 1,
-      "url": "https://music.apple.com/us/album/waste-my-time-feat-trent-runyon-single/1877338128",
-      "track": [{"@type":"MusicRecording","name":"Waste My Time","position":1,"byArtist":{"@id":"https://ashstu.art/#artist"}}]
-    },
-    {
-      "@type": "ContactPage",
-      "@id": "https://ashstu.art/#contact",
-      "name": "Contact Ash Stu - Booking and Press",
-      "description": "Book shows, submit press inquiries, or send general messages to Ash Stu. Email: ashstumusic@gmail.com",
-      "url": "https://ashstu.art/#contact",
-      "mainEntity": { "@id": "https://ashstu.art/#artist" }
-    },
-    {
-      "@type": "VideoObject",
-      "@id": "https://ashstu.art/#video-vcr",
-      "name": "VCR",
-      "description": "Official music video for \"VCR\" by Ash Stu.",
-      "thumbnailUrl": "https://ashstu.art/Images/embedded/thumb-vcr.webp",
-      "creator": { "@id": "https://ashstu.art/#artist" },
-      "url": "https://youtu.be/QfRGP06VvE8",
-      "embedUrl": "https://www.youtube.com/embed/QfRGP06VvE8",
-      "uploadDate": "2026-02-15"
-    },
-    {
-      "@type": "VideoObject",
-      "@id": "https://ashstu.art/#video-the-raven",
-      "name": "the helpful raven",
-      "description": "Official music video for \"the helpful raven\" by Ash Stu.",
-      "thumbnailUrl": "https://ashstu.art/Images/embedded/thumb-the-raven.webp",
-      "creator": { "@id": "https://ashstu.art/#artist" },
-      "url": "https://youtu.be/hhjA5XBQCOU",
-      "embedUrl": "https://www.youtube.com/embed/hhjA5XBQCOU",
-      "uploadDate": "2026-02-18"
-    },
-    {
-      "@type": "VideoObject",
-      "@id": "https://ashstu.art/#video-the-cloud-for-the-desert",
-      "name": "the cloud for the desert",
-      "description": "Official music video for \"the cloud for the desert\" by Ash Stu.",
-      "thumbnailUrl": "https://ashstu.art/Images/embedded/thumb-cloud-for-the-desert.webp",
-      "creator": { "@id": "https://ashstu.art/#artist" },
-      "url": "https://youtu.be/hyWst3-CvFo",
-      "embedUrl": "https://www.youtube.com/embed/hyWst3-CvFo",
-      "uploadDate": "2026-02-19"
-    },
-    {
-      "@type": "VideoObject",
-      "@id": "https://ashstu.art/#video-why-have-eyes",
-      "name": "WHY HAVE EYES",
-      "description": "Official music video for \"WHY HAVE EYES\" by Ash Stu.",
-      "thumbnailUrl": "https://ashstu.art/Images/embedded/thumb-why-have-eyes.webp",
-      "creator": { "@id": "https://ashstu.art/#artist" },
-      "url": "https://youtu.be/YB-GkZ3C-6U",
-      "embedUrl": "https://www.youtube.com/embed/YB-GkZ3C-6U",
-      "uploadDate": "2026-02-20"
-    },
-    {
-      "@type": "VideoObject",
-      "@id": "https://ashstu.art/#video-brain-dead-corollary",
-      "name": "Brain Dead Corollary (Trust Me Bro)",
-      "description": "Official music video for \"Brain Dead Corollary (Trust Me Bro)\" by Ash Stu.",
-      "thumbnailUrl": "https://ashstu.art/Images/embedded/thumb-brain-dead-corollary.webp",
-      "creator": { "@id": "https://ashstu.art/#artist" },
-      "url": "https://youtu.be/SU1zjY0_skg",
-      "embedUrl": "https://www.youtube.com/embed/SU1zjY0_skg",
-      "uploadDate": "2026-02-21"
-    },
-    {
-      "@type": "VideoObject",
-      "@id": "https://ashstu.art/#video-theory-of-hope",
-      "name": "Theory of Hope",
-      "description": "Official music video for \"Theory of Hope\" by Ash Stu.",
-      "thumbnailUrl": "https://ashstu.art/Images/embedded/thumb-theory-of-hope.webp",
-      "creator": { "@id": "https://ashstu.art/#artist" },
-      "url": "https://youtu.be/twQA1tZK9GI",
-      "embedUrl": "https://www.youtube.com/embed/twQA1tZK9GI",
-      "uploadDate": "2026-02-24"
-    }
-  ]
-}
-</script>
-<title>Ash Stu Art | Ashton Stubblefield</title>
-<link rel="icon" type="image/png" href="favicon.png" sizes="192x192"/>
-<link rel="apple-touch-icon" href="favicon.png"/>
-
-
-<link rel="stylesheet" href="styles.css?v=76">
-<link rel="preload" as="image" href="Images/embedded/hero-ash-stu-guitar.webp" fetchpriority="high">
-<link rel="preload" as="image" href="Images/embedded/featured-only-a-baby-vol-2.webp" fetchpriority="high">
-<script data-goatcounter="https://ashstu.goatcounter.com/count" defer src="//gc.zgo.at/count.js"></script>
-</head>
-<body>
-<noscript><style>.nav-toggle,.nav-drawer,.vid-lightbox,#player-bar,.fab-music{display:none!important}.video-grid::after,.releases-grid::after{content:'Enable JavaScript to play music and videos inline. Titles and links above still work without it.';color:rgb(from var(--ink) r g b / .5);font-size:.84rem;display:block;padding:2rem;text-align:center}</style></noscript>
-<a href="#main" class="skip">Skip to content</a>
-<header>
-<nav class="nav" aria-label="Main navigation">
-  <a href="#" class="nav-logo" aria-label="Ash Stu · home">
-    <div class="hero-brand">
-      <img width="330" height="330" src="Images/Icon.webp" alt="Ash Stu" class="hero-icon"/>
-      <span class="hero-name" style="font-size:1.805rem;padding-top:0;line-height:1">Ash Stu</span>
-    </div>
-  </a>
-  <ul class="nav-links" role="list">
-    <li><a href="#epk">Press Kit</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#music">Music</a></li>
-    <li><a href="#videos">Videos</a></li>
-  </ul>
-  <div class="nav-platforms" aria-label="Streaming platforms">
-    <a href="https://music.apple.com/us/artist/ash-stu/1868592370" target="_blank" rel="noopener noreferrer" class="nav-platform" aria-label="Listen on Apple Music" title="Apple Music"><span class="pt pt--apple" aria-hidden="true"></span></a>
-    <a href="https://open.spotify.com/artist/40zDWDI2vFYwdqn80M3odx" target="_blank" rel="noopener noreferrer" class="nav-platform" aria-label="Listen on Spotify" title="Spotify"><span class="pt pt--spotify" aria-hidden="true"></span></a>
-    <a href="https://youtube.com/@ash_stu" target="_blank" rel="noopener noreferrer" class="nav-platform" aria-label="Watch on YouTube" title="YouTube"><span class="pt pt--youtube" aria-hidden="true"></span></a>
-  </div>
-  <button type="button" class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="nav-drawer" aria-label="Open menu">
-    <span class="nav-toggle-bar"></span>
-    <span class="nav-toggle-bar"></span>
-    <span class="nav-toggle-bar"></span>
-  </button>
-</nav>
-<nav class="nav-drawer" id="nav-drawer" aria-label="Mobile menu" aria-hidden="true">
-  <div class="drawer-platforms">
-    <a href="https://music.apple.com/us/artist/ash-stu/1868592370" target="_blank" rel="noopener noreferrer" aria-label="Apple Music"><span class="pt pt--apple" aria-hidden="true"></span></a>
-    <a href="https://open.spotify.com/artist/40zDWDI2vFYwdqn80M3odx" target="_blank" rel="noopener noreferrer" aria-label="Spotify"><span class="pt pt--spotify" aria-hidden="true"></span></a>
-    <a href="https://youtube.com/@ash_stu" target="_blank" rel="noopener noreferrer" aria-label="YouTube"><span class="pt pt--youtube" aria-hidden="true"></span></a>
-  </div>
-  <a href="#epk">Press Kit</a>
-  <a href="#contact">Contact</a>
-  <a href="#music">Music</a>
-  <a href="#videos">Videos</a>
-</nav>
-</header>
-
-<main id="main">
-<section class="hero-split" id="latest" aria-label="Ash Stu">
-  <div class="hero-split-left">
-    <div class="hero-photo-track" id="hero-photo-track">
-      <img src="Images/embedded/hero-ash-stu-guitar.webp" alt="Ash Stu with guitar" class="hero-split-photo" loading="eager" fetchpriority="high" width="1400" height="950"/>
-      <div class="hero-photo-frame" role="img" aria-label="Ash Stu with guitar"></div>
-    </div>
-    <div class="hero-split-overlay">
-      <div class="hero-brand" id="hero-brand">
-        <img width="330" height="330" src="Images/Icon.webp" alt="Ash Stu" class="hero-icon" id="hero-icon"/>
-        <h1 class="hero-name">Ash Stu<span class="sr-only"> - Outsider-Folk Singer-Songwriter</span></h1>
-      </div>
-    </div>
-  </div>
-  <div class="hero-split-right">
-    <canvas class="confetti-canvas" id="confetti-canvas"></canvas>
-    <span class="featured-badge" id="featured-badge"><span aria-hidden="true">★</span> Latest Release</span>
-    <div class="featured-art-wrap featured-art-hero">
-      <img src="Images/embedded/featured-only-a-baby-vol-2.webp" alt="Only a Baby, Vol. 2" class="featured-art featured-art-rounded" width="498" height="498" fetchpriority="high"/>
-      <div class="featured-play-overlay" id="featured-play" role="button" tabindex="0" aria-label="Play Only a Baby, Vol. 2" title="Play Only a Baby, Vol. 2"><div class="rel-play-circle"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><polygon points="5,3 19,12 5,21"/></svg></div></div>
-    </div>
-    <span class="featured-kicker">Album</span>
-    <p class="featured-title">Only a Baby, Vol. 2</p>
-    <div class="featured-btns">
-    <a href="https://music.apple.com/us/album/only-a-baby-vol-2/6779983161" target="_blank" rel="noopener noreferrer" class="f-btn" aria-label="Apple Music"><span class="pt pt--apple" aria-hidden="true"></span> Apple Music</a>
-    <a href="https://open.spotify.com/album/1vqwbxLiM0kSSeD0GNlG7P" target="_blank" rel="noopener noreferrer" class="f-btn" aria-label="Spotify"><span class="pt pt--spotify" aria-hidden="true"></span> Spotify</a>
-    </div>
-  </div>
-</section>
-<section class="epk-section" id="epk" aria-labelledby="epk-h">
-  <div class="epk-body">
-    <h2 class="section-h section-h--tight" id="epk-h">Press Kit</h2>
-    <p class="epk-text">Songs and photos<br/>for booking and press.</p>
-    <a href="ash-stu-press-kit.zip" download class="btn btn-epk-dl btn-epk btn--start" title="Download Press Kit" aria-label="Download Press Kit">
-      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-      <span>Download<br/>Press Kit</span>
-    </a>
-  </div>
-  <div class="epk-photos epk-photos-top">
-    <img width="534" height="534" src="Images/embedded/epk-ash-stu-piano.webp" alt="Ash Stu at the piano"/>
-    <img width="534" height="534" src="Images/embedded/epk-ash-stu-performing.webp" alt="Ash Stu performing"/>
-  </div>
-  <div class="epk-photos epk-photos-bottom">
-    <img width="534" height="534" src="Images/embedded/epk-ash-stu-portrait.webp" alt="Ash Stu portrait"/>
-    <img width="534" height="534" src="Images/embedded/epk-ash-stu-studio-session.webp" alt="Ash Stu studio session"/>
-  </div>
-</section>
-<section class="section contact-section" id="contact" aria-labelledby="contact-h">
-  <h2 class="section-h" id="contact-h">Contact</h2>
-  <div class="section-inner">
-    <div class="contact-inner">
-      <p class="contact-intro">For shows, press, or just to say something - reach out directly.</p>
-      <a href="mailto:ashstumusic@gmail.com" class="contact-email-link" aria-label="Email Ash Stu">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
-        ashstumusic@gmail.com
-      </a>
-    </div>
-  </div>
-</section>
-<section class="section releases-section" id="music" aria-labelledby="music-h">
-  <h2 class="section-h" id="music-h">Music</h2>
-  <div class="section-inner">
-    <div id="releases-grid" class="releases-grid" aria-label="Discography">
-    </div>
-    <blockquote class="disc-quote">
-      "Anybody caught singin' these songs without our permission, will be<br/>mighty good friends of ourn, cause we don't give a dern.<br/>Publish it. Write it. Sing it. Swing to it. Yodel it.<br/>We wrote it, that's all we wanted to do."
-      <cite>Woody Guthrie</cite>
-    </blockquote>
-  </div>
-</section>
-<section class="section videos-section" id="videos" aria-labelledby="videos-h">
-  <h2 class="section-h" id="videos-h">Videos</h2>
-  <div class="section-inner">
-    <div id="video-grid" class="video-grid" aria-label="Music videos by Ash Stu">
-    </div>
-  </div>
-</section>
-<section class="bio-section" id="about" aria-labelledby="about-h">
-  <div class="bio-section-header">
-    <h2 class="section-h" id="about-h">About</h2>
-  </div>
-  <div class="bio-body">
-    <!-- One cream split-card, same object language as the contact card:
-         text panel left, portrait right, childhood shots as
-         small thumbnails under the copy. -->
-    <div class="bio-card">
-      <div class="bio-card-text">
-        <p class="bio-name">Ash Stu</p>
-        <p class="bio-text bio-desc">Outsider-folk singer-songwriter from Edmond, Oklahoma, formerly known as Ashton Stubblefield.</p>
-        <p class="bio-tagline">A figment of my own imagination.</p>
-      </div>
-      <div class="bio-card-media">
-        <img class="bio-media-main" src="Images/Profile-3.webp" alt="Ash Stu - Outsider-folk singer-songwriter from Edmond, Oklahoma" width="520" height="520"/>
-        <img src="Images/Profile-4.webp" alt="Ash Stu as a kid with his first guitar" width="360" height="480"/>
-        <img src="Images/Profile-6.webp" alt="Ash Stu at the piano" width="360" height="402"/>
-      </div>
-    </div>
-  </div>
-</section>
-</main>
-<footer role="contentinfo">
-  <a href="#" class="footer-logo" aria-label="Ash Stu · back to top" title="Back to top"><img width="330" height="330" src="Images/Icon.webp" alt="Ash Stu"/></a>
-</footer>
-<div id="player-bar" role="region" aria-label="Now playing">
-  <div id="np-bar-progress">
-    <span id="np-cur" class="np-time">0:00</span>
-    <div class="np-bar-track" id="np-bar-track"><div id="np-fill"></div><div class="seek-thumb" id="np-thumb"></div></div>
-    <span id="np-dur" class="np-time">&middot;</span>
-  </div>
-    <div class="np-left" id="np-expand">
-      <div class="np-info">
-      <span id="np-track" aria-live="polite">·</span>
-      <span id="np-album" aria-hidden="true"></span>
-    </div>
-  </div>
-  <button type="button" id="np-play" aria-label="Play">
-    <svg aria-hidden="true" id="np-icon" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><polygon points="5,3 19,12 5,21"/></svg>
-  </button>
-  <div class="np-right">
-    <button type="button" class="np-ctrl" id="np-prev" aria-label="Previous track">
-      <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><polygon points="19,20 9,12 19,4"/><rect x="5" y="4" width="3" height="16"/></svg>
-    </button>
-    <button type="button" class="np-ctrl" id="np-next" aria-label="Next track">
-      <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><polygon points="5,4 15,12 5,20"/><rect x="16" y="4" width="3" height="16"/></svg>
-    </button>
-    <button type="button" class="np-ctrl" id="np-shuffle" aria-label="Shuffle" aria-pressed="false">
-      <svg aria-hidden="true" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 3 21 3 21 8"/><line x1="4" y1="20" x2="21" y2="3"/><polyline points="21 16 21 21 16 21"/><line x1="15" y1="15" x2="21" y2="21"/><line x1="4" y1="4" x2="9" y2="9"/></svg>
-    </button>
-    <button type="button" class="np-ctrl" id="np-repeat" aria-label="Repeat" aria-pressed="false">
-      <svg aria-hidden="true" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="17 1 21 5 17 9"/><path d="M3 11V9a4 4 0 0 1 4-4h14"/><polyline points="7 23 3 19 7 15"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/></svg>
-    </button>
-    <div class="np-vol">
-      <button type="button" class="np-ctrl" id="np-mute" aria-label="Mute">
-        <svg aria-hidden="true" id="np-vol-icon" width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5" stroke="none"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07" fill="none"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14" fill="none"/></svg>
-      </button>
-      <input type="range" id="np-vol-slider" class="vol-slider" min="0" max="1" step="0.01" value="1" aria-label="Volume"/>
-    </div>
-    <button type="button" class="np-close" id="np-close" aria-label="Close player">✕</button>
-  </div>
-</div>
-<audio id="np-audio" preload="none"></audio>
-<div id="sr-announce" aria-live="assertive" aria-atomic="true" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap"></div>
-<div id="fs-player" class="fs-player" role="dialog" aria-modal="true" aria-label="Now playing" aria-hidden="true" inert>
-  <div class="fs-content">
-    <button type="button" class="fs-collapse" id="fs-collapse" aria-label="Collapse player">
-      <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
-    </button>
-    <div class="fs-art-wrap" id="fs-art-wrap">
-      <div class="fs-art-placeholder" id="fs-art-placeholder">
-        <svg aria-hidden="true" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="18" r="3" fill="none"/><path d="M11 6V14"/><path d="M11 6c3 0 5 1 5 4s-2 4-5 4"/><path d="M16 6c3 0 5 1 5 4s-2 4-5 4"/></svg>
-      </div>
-    </div>
-    <div class="fs-info">
-      <span class="fs-track" id="fs-track"></span>
-      <span class="fs-album" id="fs-album"></span>
-    </div>
-    <div class="fs-progress">
-      <div class="fs-bar" id="fs-bar">
-        <div class="fs-fill" id="fs-fill"></div>
-        <div class="seek-thumb" id="fs-thumb"></div>
-      </div>
-      <div class="fs-times">
-        <span id="fs-cur">00:00</span>
-        <span id="fs-dur">00:00</span>
-      </div>
-    </div>
-    <div class="fs-controls">
-      <button type="button" class="fs-ctrl" id="fs-shuffle" aria-label="Shuffle" aria-pressed="false">
-        <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 3 21 3 21 8"/><line x1="4" y1="20" x2="21" y2="3"/><polyline points="21 16 21 21 16 21"/><line x1="15" y1="15" x2="21" y2="21"/><line x1="4" y1="4" x2="9" y2="9"/></svg>
-      </button>
-      <button type="button" class="fs-ctrl" id="fs-prev" aria-label="Previous">
-        <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><polygon points="19,20 9,12 19,4"/><rect x="5" y="4" width="3" height="16"/></svg>
-      </button>
-      <button type="button" class="fs-play" id="fs-play" aria-label="Play">
-        <svg aria-hidden="true" id="fs-play-icon" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><polygon points="5,3 19,12 5,21"/></svg>
-      </button>
-      <button type="button" class="fs-ctrl" id="fs-next" aria-label="Next">
-        <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><polygon points="5,4 15,12 5,20"/><rect x="16" y="4" width="3" height="16"/></svg>
-      </button>
-      <button type="button" class="fs-ctrl" id="fs-repeat" aria-label="Repeat" aria-pressed="false">
-        <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="17 1 21 5 17 9"/><path d="M3 11V9a4 4 0 0 1 4-4h14"/><polyline points="7 23 3 19 7 15"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/></svg>
-      </button>
-    </div>
-    <div class="fs-vol">
-      <button type="button" class="fs-ctrl fs-ctrl-vol" id="fs-mute" aria-label="Mute">
-        <svg aria-hidden="true" id="fs-vol-icon" width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5" stroke="none"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07" fill="none"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14" fill="none"/></svg>
-      </button>
-      <input type="range" id="fs-vol-slider" class="vol-slider" min="0" max="1" step="0.01" value="1" aria-label="Volume"/>
-    </div>
-    <div class="fs-platforms" id="fs-platforms">
-      <a href="#" id="fs-apple" target="_blank" rel="noopener noreferrer" class="f-btn" aria-label="Apple Music"><span class="pt pt--apple" aria-hidden="true"></span> Apple Music</a>
-      <a href="#" id="fs-spotify" target="_blank" rel="noopener noreferrer" class="f-btn" aria-label="Spotify"><span class="pt pt--spotify" aria-hidden="true"></span> Spotify</a>
-    </div>
-  </div>
-</div>
-<nav aria-label="Page sections"><a href="#epk" class="hero-scroll" id="hero-scroll" aria-label="Scroll to next section" title="Next section"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg></a></nav>
-<button type="button" class="fab-music" id="fab-music" aria-label="Open music player" title="Open music player">
-  <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><polygon points="5,3 19,12 5,21"/></svg>
-</button>
-<div class="vid-lightbox" id="vid-lightbox" role="dialog" aria-modal="true" aria-label="Video player" aria-hidden="true" inert>
-  <div class="lb-inner">
-    <div class="lb-bar">
-      <span class="lb-title" id="lb-title"></span>
-      <div class="lb-actions">
-        <a class="vid-yt" id="lb-yt" href="#" target="_blank" rel="noopener noreferrer" aria-label="Watch on YouTube">
-<span class="pt pt--youtube" aria-hidden="true"></span>YouTube
-        </a>
-        <button type="button" class="lb-close" id="lb-close" aria-label="Close" title="Close">✕</button>
-      </div>
-    </div>
-    <div class="lb-video-wrap">
-      <button type="button" class="lb-arrow lb-arrow-prev" id="lb-prev" aria-label="Previous video" title="Previous video"><svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg></button>
-      <video id="lb-video" controls preload="none" playsinline webkit-playsinline aria-label="Video player" alt="Video player"></video>
-      <button type="button" class="lb-arrow lb-arrow-next" id="lb-next" aria-label="Next video" title="Next video"><svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg></button>
-    </div>
-    <div class="lb-dots" id="lb-dots" aria-hidden="true"></div>
-  </div>
-</div>
-
-<script>var _navToggle = document.getElementById('nav-toggle');
+var _navToggle = document.getElementById('nav-toggle');
 var _navDrawer = document.getElementById('nav-drawer');
 var _navDebounce = 0;
 function toggleNav() {
@@ -561,9 +55,6 @@ cur = ids[ids.length - 1];
 } else {
 for (let i = 0; i < offsets.length; i++) { if (scrollY >= offsets[i].top - 100) cur = offsets[i].id; }
 }
-// aria-current is styled ([aria-current] selectors), so writing it
-// invalidates style - only touch the DOM on a real section change,
-// never every scroll frame.
 if (cur !== _lastCur) {
 ids.forEach(id => { if (links[id]) links[id].removeAttribute('aria-current'); });
 if (cur && links[cur]) links[cur].setAttribute('aria-current','page');
@@ -589,8 +80,6 @@ if (_heroImg) _heroImg.addEventListener('load', function() { cacheOffsets(); upd
 const npAudio = document.getElementById('np-audio');
 const npBar = document.getElementById('player-bar');
 let _src = '';
-// True while a finger/mouse is scrubbing a seek bar - timeupdate keeps
-// its hands off the fill/thumb then (pointer position drives them).
 var _seekDragging = false;
 const PLAY = '<polygon points="5,3 19,12 5,21"/>';
 const PAUSE = '<rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/>';
@@ -636,66 +125,54 @@ el.style.setProperty('--marquee-duration', Math.max(6, t.length * 0.35) + 's');
 el.innerHTML = '<span>' + t + '   •   ' + t + '</span>';
 }
 }
-// Double rAF: a single frame can fire before layout has fully settled
-// (e.g. mid slide-up transition); waiting a frame further guarantees
-// scrollWidth/clientWidth reflect the final rendered state.
 requestAnimationFrame(function() { requestAnimationFrame(check); });
-// Fonts resolving after the above (system font substitution can still
-// shift metrics slightly) can change scrollWidth without anything else
-// re-triggering a check - catch that case too.
 if (document.fonts && document.fonts.ready) { document.fonts.ready.then(check); }
 }
-// Lock phones to portrait: gyroscopic rotation never flips the layout.
-// screen.orientation.lock works on Android Chrome; iOS Safari lacks it, so
-// there the orientation media queries still provide a landscape fallback.
 if (navigator.maxTouchPoints > 0 && window.innerWidth < 900) {
-  var lockPortrait = function() {
-    var so = screen.orientation || screen.webkitOrientation || screen.msOrientation || screen.mozOrientation;
-    if (so && so.lock) {
-      try { so.lock('portrait').catch(function() {}); } catch (e) {}
-    }
-  };
-  lockPortrait();
-  document.addEventListener('visibilitychange', function() {
-    if (!document.hidden) lockPortrait();
-  });
+var lockPortrait = function() {
+var so = screen.orientation || screen.webkitOrientation || screen.msOrientation || screen.mozOrientation;
+if (so && so.lock) {
+try { so.lock('portrait').catch(function() {}); } catch (e) {}
+}
+};
+lockPortrait();
+document.addEventListener('visibilitychange', function() {
+if (!document.hidden) lockPortrait();
+});
 }
 function npArtwork() {
- var src = npGetArt();
- if (!src) return [];
- var abs = new URL(src, location.href).href;
- return [96, 128, 192, 256, 384, 512].map(function(s) {
-   return { src: abs, sizes: s + 'x' + s, type: 'image/webp' };
- });
+var src = npGetArt();
+if (!src) return [];
+var abs = new URL(src, location.href).href;
+return [96, 128, 192, 256, 384, 512].map(function(s) {
+return { src: abs, sizes: s + 'x' + s, type: 'image/webp' };
+});
 }
 function npSyncMediaState() {
- if (!('mediaSession' in navigator)) return;
- navigator.mediaSession.playbackState = npAudio.paused ? 'paused' : 'playing';
- try {
-   navigator.mediaSession.setPositionState({ duration: npAudio.duration || 0, playbackRate: 1, position: npAudio.currentTime || 0 });
- } catch (err) {}
+if (!('mediaSession' in navigator)) return;
+navigator.mediaSession.playbackState = npAudio.paused ? 'paused' : 'playing';
+try {
+navigator.mediaSession.setPositionState({ duration: npAudio.duration || 0, playbackRate: 1, position: npAudio.currentTime || 0 });
+} catch (err) {}
 }
 function npUpdateMediaSession(track, album, art) {
- if (!('mediaSession' in navigator)) return;
- var ms = navigator.mediaSession;
- ms.metadata = new MediaMetadata({
-   title: npTrackLabel() + track,
-   artist: 'Ash Stu',
-   album: album || '',
-   artwork: art ? npArtwork() : []
- });
- // Handlers are re-registered on every load so the notification always
- // carries the full transport. Always-on: npNext/npPrev already no-op at
- // the boundaries, so even a single-track release shows skip buttons.
- ms.setActionHandler('play', function() { npToggle(); });
- ms.setActionHandler('pause', function() { npToggle(); });
- ms.setActionHandler('previoustrack', function() { npPrev(); });
- ms.setActionHandler('nexttrack', function() { npNext(); });
- ms.setActionHandler('seekbackward', function() { npAudio.currentTime = Math.max(0, npAudio.currentTime - 10); });
- ms.setActionHandler('seekforward', function() { if (npAudio.duration) npAudio.currentTime = Math.min(npAudio.duration, npAudio.currentTime + 10); });
- ms.setActionHandler('seekto', function(details) { if (npAudio.duration) npAudio.currentTime = details.seekTime; });
- ms.setActionHandler('stop', function() { npClose(); });
- npSyncMediaState();
+if (!('mediaSession' in navigator)) return;
+var ms = navigator.mediaSession;
+ms.metadata = new MediaMetadata({
+title: npTrackLabel() + track,
+artist: 'Ash Stu',
+album: album || '',
+artwork: art ? npArtwork() : []
+});
+ms.setActionHandler('play', function() { npToggle(); });
+ms.setActionHandler('pause', function() { npToggle(); });
+ms.setActionHandler('previoustrack', function() { npPrev(); });
+ms.setActionHandler('nexttrack', function() { npNext(); });
+ms.setActionHandler('seekbackward', function() { npAudio.currentTime = Math.max(0, npAudio.currentTime - 10); });
+ms.setActionHandler('seekforward', function() { if (npAudio.duration) npAudio.currentTime = Math.min(npAudio.duration, npAudio.currentTime + 10); });
+ms.setActionHandler('seekto', function(details) { if (npAudio.duration) npAudio.currentTime = details.seekTime; });
+ms.setActionHandler('stop', function() { npClose(); });
+npSyncMediaState();
 }
 function npLoad(track, album, src, autoplay) {
 var label = npTrackLabel() + track;
@@ -703,11 +180,6 @@ _npTrackEl.dataset.label = label;
 _npAlbumEl.textContent = album || '';
 npMarquee(_npTrackEl);
 if (_srAnnounce) _srAnnounce.textContent = 'Now playing: ' + track + (album ? ' from ' + album : '');
-// A skip (or a re-skip before the previous load finished) must tear down
-// the in-flight play() immediately: bumping the intent voids any still
-// pending promise, pausing aborts the current fetch, and preload="auto"
-// lets the browser start pulling the new source the moment src changes
-// instead of waiting for play() - so rapid skipping never queues up.
 _playIntent++;
 npAudio.pause();
 npAudio.preload = 'auto';
@@ -730,10 +202,6 @@ clearTimeout(_npResizeTimer);
 _npResizeTimer = setTimeout(function() { if (npBar.classList.contains('show')) npMarquee(_npTrackEl); }, 150);
 }, { passive: true });
 var _playIntent = 0;
-// Background-preload the next track so a rapid skip has its bytes already
-// in the HTTP cache - the swap then starts in a frame or two instead of a
-// cold fetch. Only warmed once the user is actually listening (npLoad with
-// autoplay), never on page load. Shuffle is random, so nothing to preload.
 var _preAudio = new Audio();
 _preAudio.preload = 'auto';
 _preAudio.setAttribute('playsinline', '');
@@ -803,10 +271,10 @@ if (btn) btn.classList.toggle('active', pState.shuffle);
 var fsBtn = document.getElementById('fs-shuffle');
 if (fsBtn) fsBtn.classList.toggle('active', pState.shuffle);
 if (pState.repeat === false) {
-  var rBtn = document.getElementById('np-repeat');
-  if (rBtn) rBtn.classList.remove('active');
-  var fsRBtn = document.getElementById('fs-repeat');
-  if (fsRBtn) fsRBtn.classList.remove('active');
+var rBtn = document.getElementById('np-repeat');
+if (rBtn) rBtn.classList.remove('active');
+var fsRBtn = document.getElementById('fs-repeat');
+if (fsRBtn) fsRBtn.classList.remove('active');
 }
 }
 function npRepeatToggle() {
@@ -817,10 +285,10 @@ if (btn) btn.classList.toggle('active', pState.repeat);
 var fsBtn = document.getElementById('fs-repeat');
 if (fsBtn) fsBtn.classList.toggle('active', pState.repeat);
 if (pState.shuffle === false) {
-  var sBtn = document.getElementById('np-shuffle');
-  if (sBtn) sBtn.classList.remove('active');
-  var fsSBtn = document.getElementById('fs-shuffle');
-  if (fsSBtn) fsSBtn.classList.remove('active');
+var sBtn = document.getElementById('np-shuffle');
+if (sBtn) sBtn.classList.remove('active');
+var fsSBtn = document.getElementById('fs-shuffle');
+if (fsSBtn) fsSBtn.classList.remove('active');
 }
 }
 var VOL_ON = '<polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5" stroke="none"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07" fill="none"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14" fill="none"/>';
@@ -880,8 +348,6 @@ if (!_seekDragging) {
 _npFill.style.transform = 'scaleX(' + pct + ')';
 _npThumb.style.transform = 'translateX(' + (pct * 100) + '%)';
 }
-// timeupdate fires ~4x/s but the label only changes once a second -
-// skip the identical textContent write (each one dirties layout).
 const txt = fmtT(npAudio.currentTime);
 if (_npCur.textContent !== txt) _npCur.textContent = txt;
 const now = Date.now();
@@ -896,19 +362,10 @@ else if (pState.playlist.length > 0 && (pState.shuffle || pState.plIdx < pState.
 else { npSetPlaying(false); }
 });
 npAudio.addEventListener('loadedmetadata', () => { _npDur.textContent = fmtT(npAudio.duration); });
-// Shared by both the mini-bar and fullscreen seek tracks. Pointer Events
-// unify mouse/touch/pen into one path and, via setPointerCapture, keep
-// tracking movement for the rest of the drag even if the pointer strays
-// off the (thin) bar - so this is real click-to-seek AND drag-to-scrub,
-// not just a jump-on-click like before.
 function wireSeekBar(el) {
 var fill = el.querySelector('#np-fill, .fs-fill');
 var thumb = el.querySelector('.seek-thumb');
 var dragging = false, pendingPct = -1, rafId = null;
-// Volume-slider feel: fill + thumb track the pointer directly, applied
-// once per frame via rAF. The media seek rides the same frame, so time
-// scrubs continuously - but the visuals never wait on the (async) seek,
-// and .seeking kills the bars' catch-up transitions during the drag.
 function apply() {
 rafId = null;
 if (pendingPct < 0) return;
@@ -922,27 +379,17 @@ pendingPct = Math.max(0, Math.min(1, (e.clientX - r.left) / r.width));
 if (rafId === null) rafId = requestAnimationFrame(apply);
 }
 function end() { dragging = false; _seekDragging = false; el.classList.remove('seeking'); }
-// Never call preventDefault (touch-action:none in CSS already blocks
-// default scroll/pan on these bars), so passive:true is safe here and
-// lets the browser skip synchronously waiting to see if it's needed.
 el.addEventListener('pointerdown', function(e) { dragging = true; _seekDragging = true; el.classList.add('seeking'); el.setPointerCapture(e.pointerId); seek(e); }, { passive: true });
 el.addEventListener('pointermove', function(e) { if (dragging) seek(e); }, { passive: true });
 el.addEventListener('pointerup', end, { passive: true });
 el.addEventListener('pointercancel', end, { passive: true });
 }
 wireSeekBar(document.getElementById('np-bar-track'));
-// Media Session: gives mobile OSes a real lock-screen "now playing" UI
-// and, just as importantly, is what tells the OS this is legitimate
-// background media playback rather than an inactive tab - without it,
-// phones tend to suspend audio a few seconds after the screen locks.
-// Only wired to npAudio (music tracks), never
-// to the video lightbox, so videos keep the normal "stops when you
-// leave" behavior.
 if ('mediaSession' in navigator) {
-  npAudio.addEventListener('play', npSyncMediaState);
-  npAudio.addEventListener('pause', npSyncMediaState);
-  npAudio.addEventListener('loadedmetadata', npSyncMediaState);
-  npAudio.addEventListener('seeked', npSyncMediaState);
+npAudio.addEventListener('play', npSyncMediaState);
+npAudio.addEventListener('pause', npSyncMediaState);
+npAudio.addEventListener('loadedmetadata', npSyncMediaState);
+npAudio.addEventListener('seeked', npSyncMediaState);
 }
 (function() {
 var fs = document.getElementById('fs-player');
@@ -1000,8 +447,6 @@ fsThumb.style.transform = 'translateX(' + (syncPct * 100) + '%)';
 fsCur.textContent = fmtT(npAudio.currentTime);
 fsDur.textContent = fmtT(npAudio.duration);
 } else {
-// Mid-skip the new source has no metadata yet - reset the readout so a
-// rapid next/prev doesn't leave the previous track's times on screen.
 fsFill.style.transform = 'scaleX(0)';
 if (fsThumb) fsThumb.style.transform = 'translateX(0)';
 fsCur.textContent = '0:00';
@@ -1009,164 +454,136 @@ fsDur.textContent = '·';
 }
 }
 function fsOpen() {
- fsSync();
- fs.classList.add('open');
- fs.setAttribute('aria-hidden', 'false');
- fs.inert = false;
- npBar.inert = true; // can't keyboard-tab behind the maximized player
- _fsOpen = true;
- // Pin the page: nothing behind the maximized player scrolls (wheel,
- // touch, or keys) until it's collapsed again.
- document.documentElement.classList.add('fs-locked');
- fitFsArt();
+fsSync();
+fs.classList.add('open');
+fs.setAttribute('aria-hidden', 'false');
+fs.inert = false;
+npBar.inert = true; // can't keyboard-tab behind the maximized player
+_fsOpen = true;
+document.documentElement.classList.add('fs-locked');
+fitFsArt();
 }
 function fsClose() {
- fs.classList.remove('open');
- fs.setAttribute('aria-hidden', 'true');
- // aria-hidden alone doesn't remove buttons/links/the seek bar from the
- // tab order - a keyboard user could still tab into the closed player
- // and interact with controls they can't see. inert does both: takes
- // it out of the tab order and hides it from the accessibility tree.
- fs.inert = true;
- npBar.inert = false;
- _fsOpen = false;
- document.documentElement.classList.remove('fs-locked');
+fs.classList.remove('open');
+fs.setAttribute('aria-hidden', 'true');
+fs.inert = true;
+npBar.inert = false;
+_fsOpen = false;
+document.documentElement.classList.remove('fs-locked');
 }
-// The maximized player must fit on one screen, never scrolling: shrink the
-// square art to whatever height the rest of the stack leaves over, and hide
-// it entirely if even the controls alone would overflow. The short-landscape
-// side-by-side grid sizes its art from CSS, so that layout is left alone.
 function fitFsArt() {
- var wrap = document.getElementById('fs-art-wrap');
- if (!wrap || !_fsContentEl) return;
- if (window.matchMedia('(orientation: landscape) and (max-height: 520px)').matches) {
-   wrap.style.width = '';
-   wrap.style.display = '';
-   return;
- }
- var c = _fsContentEl;
- wrap.style.display = '';
- for (var i = 0; i < 2; i++) {
-   var nonArt = c.scrollHeight - wrap.offsetHeight;
-   var avail = c.clientHeight - nonArt;
-   if (avail <= 0) { wrap.style.display = 'none'; return; }
-   wrap.style.width = Math.min(c.clientWidth, 340, avail) + 'px';
- }
+var wrap = document.getElementById('fs-art-wrap');
+if (!wrap || !_fsContentEl) return;
+if (window.matchMedia('(orientation: landscape) and (max-height: 520px)').matches) {
+wrap.style.width = '';
+wrap.style.display = '';
+return;
 }
-// Re-fit whenever the viewport changes while the player is up - the URL bar
-// collapsing, rotation, and window resizes all change the available height.
+var c = _fsContentEl;
+wrap.style.display = '';
+for (var i = 0; i < 2; i++) {
+var nonArt = c.scrollHeight - wrap.offsetHeight;
+var avail = c.clientHeight - nonArt;
+if (avail <= 0) { wrap.style.display = 'none'; return; }
+wrap.style.width = Math.min(c.clientWidth, 340, avail) + 'px';
+}
+}
 window.addEventListener('resize', function() {
- if (_fsOpen) fitFsArt();
+if (_fsOpen) fitFsArt();
 }, { passive: true });
 if (document.fonts && document.fonts.ready) {
- document.fonts.ready.then(function() { if (_fsOpen) fitFsArt(); });
+document.fonts.ready.then(function() { if (_fsOpen) fitFsArt(); });
 }
-// Swipe up on the docked bar maximizes; swipe down on the maximized
-// player collapses it. Pointer Events unify mouse/touch, and the
-// threshold is generous so taps and horizontal drags never misfire. The
-// down-gesture only closes when the player's content is already at its
-// top - if it's scrolled, the swipe scrolls it instead (iOS-style).
 var _swipe = null;
 var _swipeConsumed = false;
 var _fsContentEl = document.querySelector('.fs-content');
 npBar.addEventListener('pointerdown', function(e) {
- _swipeConsumed = false;
- if (e.pointerType === 'touch') return; // touch path below owns touch
- if (e.target.closest('button, input, a, .np-bar-track')) return;
- _swipe = { y: e.clientY, x: e.clientX, target: npBar, dir: null };
+_swipeConsumed = false;
+if (e.pointerType === 'touch') return; // touch path below owns touch
+if (e.target.closest('button, input, a, .np-bar-track')) return;
+_swipe = { y: e.clientY, x: e.clientX, target: npBar, dir: null };
 }, { passive: true });
 npBar.addEventListener('pointermove', function(e) {
- if (!_swipe || _swipe.target !== npBar) return;
- var dx = e.clientX - _swipe.x;
- var dy = e.clientY - _swipe.y;
- if (!_swipe.dir) {
-   if (Math.abs(dx) < 6 && Math.abs(dy) < 6) return;
-   _swipe.dir = Math.abs(dx) > Math.abs(dy) ? 'x' : 'y';
- }
- if (_swipe.dir === 'y' && dy < -40) { _swipe = null; fsOpen(); }
+if (!_swipe || _swipe.target !== npBar) return;
+var dx = e.clientX - _swipe.x;
+var dy = e.clientY - _swipe.y;
+if (!_swipe.dir) {
+if (Math.abs(dx) < 6 && Math.abs(dy) < 6) return;
+_swipe.dir = Math.abs(dx) > Math.abs(dy) ? 'x' : 'y';
+}
+if (_swipe.dir === 'y' && dy < -40) { _swipe = null; fsOpen(); }
 }, { passive: true });
 npBar.addEventListener('pointerup', function(e) {
- if (_swipe && _swipe.target === npBar) {
-   var dx = e.clientX - _swipe.x;
-   if (_swipe.dir === 'x' && Math.abs(dx) > 60) {
-     _swipe = null;
-     _swipeConsumed = true;
-     if (dx < 0) { npNext(); fsSync(); } else { npPrev(); fsSync(); }
-   }
- }
- _swipe = null;
+if (_swipe && _swipe.target === npBar) {
+var dx = e.clientX - _swipe.x;
+if (_swipe.dir === 'x' && Math.abs(dx) > 60) {
+_swipe = null;
+_swipeConsumed = true;
+if (dx < 0) { npNext(); fsSync(); } else { npPrev(); fsSync(); }
+}
+}
+_swipe = null;
 }, { passive: true });
 npBar.addEventListener('pointercancel', function() { _swipe = null; }, { passive: true });
-// Touch path for the bar: the bar's touch-action allows horizontal pans,
-// so the browser can fire pointercancel and kill a pointer swipe before it
-// completes. Claim the gesture with preventDefault (mirrors the fullscreen
-// player) so left/right swipes reliably skip and swipe-up still maximizes.
 var _npBarTouch = null;
 npBar.addEventListener('touchstart', function(e) {
- _swipeConsumed = false;
- if (e.target.closest('button, input, a, .np-bar-track')) return;
- var t = e.touches[0];
- _npBarTouch = { y: t.clientY, x: t.clientX, active: false, dir: null };
+_swipeConsumed = false;
+if (e.target.closest('button, input, a, .np-bar-track')) return;
+var t = e.touches[0];
+_npBarTouch = { y: t.clientY, x: t.clientX, active: false, dir: null };
 }, { passive: true });
 npBar.addEventListener('touchmove', function(e) {
- if (!_npBarTouch) return;
- var t = e.touches[0];
- var dy = t.clientY - _npBarTouch.y;
- var dx = t.clientX - _npBarTouch.x;
- if (_npBarTouch.active) { e.preventDefault(); return; }
- if (!_npBarTouch.dir) {
-   if (Math.abs(dx) < 8 && Math.abs(dy) < 8) return;
-   _npBarTouch.dir = Math.abs(dx) > Math.abs(dy) ? 'x' : 'y';
- }
- if (_npBarTouch.dir === 'x') {
-   if (Math.abs(dx) > 10) { _npBarTouch.active = true; e.preventDefault(); }
-   return;
- }
- if (dy < -40) { _npBarTouch = null; fsOpen(); }
+if (!_npBarTouch) return;
+var t = e.touches[0];
+var dy = t.clientY - _npBarTouch.y;
+var dx = t.clientX - _npBarTouch.x;
+if (_npBarTouch.active) { e.preventDefault(); return; }
+if (!_npBarTouch.dir) {
+if (Math.abs(dx) < 8 && Math.abs(dy) < 8) return;
+_npBarTouch.dir = Math.abs(dx) > Math.abs(dy) ? 'x' : 'y';
+}
+if (_npBarTouch.dir === 'x') {
+if (Math.abs(dx) > 10) { _npBarTouch.active = true; e.preventDefault(); }
+return;
+}
+if (dy < -40) { _npBarTouch = null; fsOpen(); }
 }, { passive: false });
 npBar.addEventListener('touchend', function(e) {
- if (_npBarTouch && _npBarTouch.active && _npBarTouch.dir === 'x') {
-   var dx = e.changedTouches[0].clientX - _npBarTouch.x;
-   if (Math.abs(dx) > 60) {
-     _npBarTouch = null;
-     _swipeConsumed = true;
-     if (dx < 0) { npNext(); fsSync(); } else { npPrev(); fsSync(); }
-   }
- }
- _npBarTouch = null;
+if (_npBarTouch && _npBarTouch.active && _npBarTouch.dir === 'x') {
+var dx = e.changedTouches[0].clientX - _npBarTouch.x;
+if (Math.abs(dx) > 60) {
+_npBarTouch = null;
+_swipeConsumed = true;
+if (dx < 0) { npNext(); fsSync(); } else { npPrev(); fsSync(); }
+}
+}
+_npBarTouch = null;
 }, { passive: true });
 npBar.addEventListener('touchcancel', function() { _npBarTouch = null; }, { passive: true });
 fs.addEventListener('pointerdown', function(e) {
- if (e.pointerType === 'touch') return; // touch path handles touch below
- if (e.target.closest('button, input, a, .fs-bar')) return;
- _swipe = { y: e.clientY, x: e.clientX, target: fs, dir: null };
+if (e.pointerType === 'touch') return; // touch path handles touch below
+if (e.target.closest('button, input, a, .fs-bar')) return;
+_swipe = { y: e.clientY, x: e.clientX, target: fs, dir: null };
 }, { passive: true });
 fs.addEventListener('pointermove', function(e) {
- if (!_swipe || _swipe.target !== fs || !_fsOpen) return;
- if (e.pointerType === 'touch') return;
- if (_fsContentEl && _fsContentEl.scrollTop > 0) return;
- var dx = e.clientX - _swipe.x;
- var dy = e.clientY - _swipe.y;
- if (!_swipe.dir) {
-   if (Math.abs(dx) < 6 && Math.abs(dy) < 6) return;
-   _swipe.dir = Math.abs(dx) > Math.abs(dy) ? 'x' : 'y';
- }
- if (_swipe.dir === 'y') {
-   if (dy > 48) { _swipe = null; fsClose(); }
- } else if (Math.abs(dx) > 60) {
-   _swipe = null;
-   if (dx < 0) { npNext(); fsSync(); } else { npPrev(); fsSync(); }
- }
+if (!_swipe || _swipe.target !== fs || !_fsOpen) return;
+if (e.pointerType === 'touch') return;
+if (_fsContentEl && _fsContentEl.scrollTop > 0) return;
+var dx = e.clientX - _swipe.x;
+var dy = e.clientY - _swipe.y;
+if (!_swipe.dir) {
+if (Math.abs(dx) < 6 && Math.abs(dy) < 6) return;
+_swipe.dir = Math.abs(dx) > Math.abs(dy) ? 'x' : 'y';
+}
+if (_swipe.dir === 'y') {
+if (dy > 48) { _swipe = null; fsClose(); }
+} else if (Math.abs(dx) > 60) {
+_swipe = null;
+if (dx < 0) { npNext(); fsSync(); } else { npPrev(); fsSync(); }
+}
 }, { passive: true });
 fs.addEventListener('pointerup', function() { _swipe = null; }, { passive: true });
 fs.addEventListener('pointercancel', function() { _swipe = null; }, { passive: true });
-// Touch swipe to minimize or skip. The player's content is scrollable
-// (overflow-y:auto), so the browser would normally grab a vertical pan
-// and fire pointercancel - that's why pointer events alone won't work
-// here. Touch events with a non-passive move let us claim the gesture:
-// once the finger drags past the top of the content, preventDefault
-// hands the pan to us. Horizontal drags are always claimed so the
-// browser's back-swipe doesn't hijack them; releasing past 60px skips.
 var _fsTouch = null;
 fs.addEventListener('touchstart', function(e) {
 if (!_fsOpen) return;
@@ -1181,18 +598,16 @@ var dy = t.clientY - _fsTouch.y;
 var dx = t.clientX - _fsTouch.x;
 if (_fsTouch.active) { e.preventDefault(); return; }
 if (!_fsTouch.dir) {
-  if (Math.abs(dx) < 8 && Math.abs(dy) < 8) return;
-  _fsTouch.dir = Math.abs(dx) > Math.abs(dy) ? 'x' : 'y';
+if (Math.abs(dx) < 8 && Math.abs(dy) < 8) return;
+_fsTouch.dir = Math.abs(dx) > Math.abs(dy) ? 'x' : 'y';
 }
 if (_fsTouch.dir === 'x') {
-  if (Math.abs(dx) > 10) { _fsTouch.active = true; e.preventDefault(); }
-  return;
+if (Math.abs(dx) > 10) { _fsTouch.active = true; e.preventDefault(); }
+return;
 }
-// Content is scrolled and the finger is moving up (scrolling down the
-// track info): hand the gesture back to native scrolling.
 if (_fsContentEl && _fsContentEl.scrollTop > 0) {
-  if (dy < 0) { _fsTouch = null; }
-  return;
+if (dy < 0) { _fsTouch = null; }
+return;
 }
 if (dy > 8) {
 _fsTouch.active = true;
@@ -1202,17 +617,17 @@ if (dy > 48) { _fsTouch = null; fsClose(); }
 }, { passive: false });
 fs.addEventListener('touchend', function(e) {
 if (_fsTouch) {
-  if (_fsTouch.active) {
-    if (_fsTouch.dir === 'x') {
-      var dx = e.changedTouches[0].clientX - _fsTouch.x;
-      if (dx < -60) { _fsTouch = null; npNext(); fsSync(); }
-      else if (dx > 60) { _fsTouch = null; npPrev(); fsSync(); }
-    } else {
-      _fsTouch = null; fsClose();
-    }
-  } else {
-    _fsTouch = null;
-  }
+if (_fsTouch.active) {
+if (_fsTouch.dir === 'x') {
+var dx = e.changedTouches[0].clientX - _fsTouch.x;
+if (dx < -60) { _fsTouch = null; npNext(); fsSync(); }
+else if (dx > 60) { _fsTouch = null; npPrev(); fsSync(); }
+} else {
+_fsTouch = null; fsClose();
+}
+} else {
+_fsTouch = null;
+}
 }
 _fsTouch = null;
 }, { passive: true });
@@ -1220,9 +635,6 @@ fs.addEventListener('touchcancel', function() { _fsTouch = null; }, { passive: t
 document.addEventListener('keydown', function(e) {
 if (e.key === 'Escape' && _fsOpen) fsClose();
 });
-// The whole bar is the expand target, not just the art/title corner -
-// clicks on real controls (buttons, sliders, the seek track) are theirs
-// and must not also expand.
 npBar.addEventListener('click', function(e) {
 if (_swipeConsumed) { _swipeConsumed = false; return; }
 if (e.target.closest('button, input, a, .np-bar-track')) return;
@@ -1264,9 +676,6 @@ return (s == null ? '' : String(s))
 .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
 }
 var RELEASE_LIST = [];
-// Scroll-cue dodge targets (see the hero-scroll IIFE below). Cached here so
-// renderAllContent can invalidate it when cards/entries are re-injected -
-// the alternative was an 8-selector querySelectorAll on every scroll frame.
 var _dodgeEls = null;
 var pState = {
 playlist: [],
@@ -1286,16 +695,13 @@ var t = rel.tracks[0];
 _npTrackEl.dataset.label = '1. ' + t.title;
 npMarquee(_npTrackEl);
 _npAlbumEl.textContent = rel.name;
- var art = npGetArt();
- if (_npArt && art) { _npArt.src = encodeURI(art); _npArt.hidden = false; }
- npAudio.src = t.file; _src = t.file;
- npUpdateMediaSession(t.title, rel.name, art);
+var art = npGetArt();
+if (_npArt && art) { _npArt.src = encodeURI(art); _npArt.hidden = false; }
+npAudio.src = t.file; _src = t.file;
+npUpdateMediaSession(t.title, rel.name, art);
 }
 var _tracklistDebounce = 0;
 function onRelOverlay(e, rIdx) {
-// Same behavior everywhere (desktop and touch): the play disc plays,
-// tapping the rest of the artwork expands the tracklist. Singles have no
-// tracklist, so any tap plays them.
 if (RELEASE_LIST[rIdx].type === 'Single') {
 closeAllTracklists();
 toggleRelease(rIdx);
@@ -1478,12 +884,6 @@ const v = VIDEO_LIST[parseInt(card.dataset.videoIndex, 10)];
 if (!v) return;
 card.addEventListener('click', () => openLightbox(v));
 card.addEventListener('keydown', e => { if(e.key==='Enter'||e.key===' ') { e.preventDefault(); openLightbox(v); } });
-// Loading metadata alone doesn't make every browser paint a first
-// frame (some just stay black until playback starts, and a bare
-// currentTime nudge can get silently ignored) - a muted play()
-// immediately paused is the reliable way to force one frame to
-// actually decode+paint, giving a real thumbnail with no separate
-// artwork file needed.
 var thumbVideo = card.querySelector('.vid-thumb video');
 if (thumbVideo) {
 var p = thumbVideo.play();
@@ -1491,11 +891,10 @@ if (p && p.then) p.then(function() { thumbVideo.pause(); }).catch(function() {})
 }
 });
 }
-
 /* ── Dynamic content: releases/videos are fetched from JSON
-   (generated from Audio/, Videos/ by scripts/generate_content.py,
-   auto-regenerated by the update-content GitHub Action) rather than
-   hardcoded here, so adding/removing a project needs no code edit. ── */
+(generated from Audio/, Videos/ by scripts/generate_content.py,
+auto-regenerated by the update-content GitHub Action) rather than
+hardcoded here, so adding/removing a project needs no code edit. ── */
 function renderReleaseCard(rel, rIdx) {
 var kindWord = rel.type === 'Single' ? 'Single artwork for ' : rel.type === 'EP' ? 'EP artwork for ' : 'Album cover for ';
 var btns = '';
@@ -1521,10 +920,6 @@ var ytBtn = v.youtube
 var thumbEl = v.thumb
 ? '<img src="' + escHtml(v.thumb) + '" alt="Music video: ' + escHtml(v.title) + ' by Ash Stu" width="640" height="360"/>'
 : '<video src="' + encPath(v.file) + '" preload="metadata" muted playsinline aria-label="Video thumbnail" alt="Video thumbnail"></video>';
-// The YouTube link can't live inside the role=button region (a real
-// interactive control nested inside another confuses screen readers/
-// keyboard nav) - .vid-card wraps only the thumbnail (the "play"
-// target), .vid-info sits beside it as a plain sibling row.
 return '<div class="vid-card-wrap">' +
 '<div class="vid-card" tabindex="0" role="button" aria-label="Play &quot;' + escHtml(v.title) + '&quot;" data-video-index="' + vIdx + '">' +
 '<div class="vid-thumb">' +
@@ -1555,13 +950,10 @@ if (rel.apple) h += '<a href="' + escHtml(rel.apple) + '" target="_blank" rel="n
 if (rel.spotify) h += '<a href="' + escHtml(rel.spotify) + '" target="_blank" rel="noopener noreferrer" class="f-btn" aria-label="Spotify"><span class="pt pt--spotify" aria-hidden="true"></span> Spotify</a>';
 btnsEl.innerHTML = h;
 }
-// Badge doubles as the release-status tag: a release with no streaming
-// links yet reads "Distributing Soon" instead of "Latest Release".
 var badgeEl = document.getElementById('featured-badge');
 if (badgeEl) {
 var hasLinks = !!(rel.apple || rel.spotify);
 badgeEl.innerHTML = hasLinks ? '<span aria-hidden="true">★</span> Latest Release' : 'Distributing Soon';
-// .soon flips the badge gold (announcement voice) vs red (release pop)
 badgeEl.classList.toggle('soon', !hasLinks);
 }
 }
@@ -1575,15 +967,11 @@ _dodgeEls = null; // cards/entries below are about to be replaced
 RELEASE_LIST = results[0] || [];
 VIDEO_LIST = results[1] || [];
 LYRICS = results[2] || {};
-
 var relGrid = document.getElementById('releases-grid');
 if (relGrid) relGrid.innerHTML = RELEASE_LIST.map(renderReleaseCard).join('');
-
 var vidGrid = document.getElementById('video-grid');
 if (vidGrid) vidGrid.innerHTML = VIDEO_LIST.map(renderVideoCard).join('');
-
 renderFeatured(RELEASE_LIST[0]);
-// A background refresh must never yank whatever's loaded in the player.
 if (!isRefresh || !_src) initDefaultTrack();
 buildTracklists();
 setupCardListeners();
@@ -1591,14 +979,9 @@ wireVideos();
 if (typeof initMarquees === 'function') setTimeout(initMarquees, 50);
 }
 function loadDynamicContent() {
-// Prerendered pages carry the content JSON embedded inline - render from
-// it immediately, zero fetches on the critical path.
 var dataAll = readEmbedded('data-all');
 var embedded = dataAll ? [dataAll.releases, dataAll.videos, dataAll.lyrics] : [null];
 if (embedded[0]) renderAllContent(embedded, false);
-// Still revalidate against the live .json files: content added through
-// the GitHub web UI (no local rebuild) updates those without touching
-// the embedded copy. Only re-render if something actually changed.
 Promise.all([
 fetch('releases.json').then(function(r) { return r.json(); }).catch(function() { return null; }),
 fetch('videos.json').then(function(r) { return r.json(); }).catch(function() { return null; }),
@@ -1612,7 +995,6 @@ if (JSON.stringify(results) !== JSON.stringify(embedded)) renderAllContent(resul
 });
 }
 loadDynamicContent();
-
 let _lbIdx = 0;
 var _lbPrevFocus = null;
 var _lbOpen = false;
@@ -1698,11 +1080,11 @@ return null;
 }
 var _arrowTick = false;
 /* This arrow is position:fixed and persists across the whole page, not
-   just the hero - it can end up hovering over a release/video card's
-   play button, a streaming link, anywhere, as the user scrolls. The
-   list is cached (renderAllContent nulls _dodgeEls whenever it replaces
-   cards/entries) - re-running an 8-selector querySelectorAll on every
-   scroll frame was pure waste. */
+just the hero - it can end up hovering over a release/video card's
+play button, a streaming link, anywhere, as the user scrolls. The
+list is cached (renderAllContent nulls _dodgeEls whenever it replaces
+cards/entries) - re-running an 8-selector querySelectorAll on every
+scroll frame was pure waste. */
 function getDodgeEls() {
 if (_dodgeEls === null) {
 _dodgeEls = Array.prototype.slice.call(document.querySelectorAll(
@@ -1951,15 +1333,12 @@ finishReveal();
 });
 })();
 /* About-section childhood shots are grayscale at rest, color on hover -
-   a click/tap toggles each photo to color and back, so touch devices
-   (which have no hover) get the same reveal. Each shot toggles only its
-   own state - the two images never affect each other. */
+a click/tap toggles each photo to color and back, so touch devices
+(which have no hover) get the same reveal. Each shot toggles only its
+own state - the two images never affect each other. */
 (function() {
 var shots = document.querySelectorAll('.bio-card-media img:not(.bio-media-main)');
 for (var i = 0; i < shots.length; i++) {
 shots[i].addEventListener('click', function() { this.classList.toggle('bio-revealed'); });
 }
 })();
-</script>
-</body>
-</html>
